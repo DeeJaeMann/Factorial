@@ -10,11 +10,11 @@
         /// </summary>
         static void Main()
         {
-            Console.WriteLine(Factorial(0));
-            Console.WriteLine(Factorial(1));
-            Console.WriteLine(Factorial(2));
-            Console.WriteLine(Factorial(3));
-            Console.WriteLine(Factorial(4));
+            Console.WriteLine(Factorial(0)); // 1
+            Console.WriteLine(Factorial(1)); // 1
+            Console.WriteLine(Factorial(2)); // 2
+            Console.WriteLine(Factorial(3)); // 6
+            Console.WriteLine(Factorial(4)); // 24
         }
 
         /// <summary>
